@@ -5,5 +5,6 @@ public class GitTest {
 		System.out.println("Ò»");
 		System.out.println("¶þ");
 		System.out.println("Èý");
+		System.out.println("hot_fix");
 	}
 }
